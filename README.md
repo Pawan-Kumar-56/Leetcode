@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0045-jump-game-ii) |
+| [0078-subsets](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
