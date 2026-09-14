@@ -2,6 +2,7 @@ class Solution {
     List<List<Integer>> ans=new ArrayList<>();
     ArrayList<Integer> list=new ArrayList<>();
     public List<List<Integer>> subsets(int[] nums) {
+        Arrays.sort((nums));
         int n=nums.length;
         f(0,n,nums);
         return ans;
