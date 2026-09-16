@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0042-trapping-rain-water) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 ## Sorting
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0051-n-queens) |
@@ -116,9 +119,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
