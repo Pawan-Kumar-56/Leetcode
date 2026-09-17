@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2293-min-max-game](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2293-min-max-game) |
 ## Hash Table
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0037-sudoku-solver) |
 | [0217-contains-duplicate](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Sorting
 |  |
 | ------- |
@@ -65,10 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Greedy
 |  |
 | ------- |
