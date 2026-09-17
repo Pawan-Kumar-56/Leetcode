@@ -1,41 +1,44 @@
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
-        int n=nums.length;
-        int m=nums.length;
-        int[] ans=new int[n];
-        Stack<int[]> st=new Stack<>();
-        HashMap<Integer,Integer> map=new HashMap<>();
-        int max=0;
-        int idx=-1;
-        for(int num:nums) max=Math.max(max,num);
-        for(int num:nums){
-            
-            while(!st.isEmpty() && st.peek()[0]<num){
-                int[] temp = st.pop();
-                ans[temp[1]] = num;
+        int[] ans = new int[nums.length];
+        int n = nums.length;
+        Stack<Integer> s = new Stack<>();
 
+        // --- NO NEED OF MAP, MAX, IDX, SPECIAL CHECK ---
+        
+        // initialize ans as -1
+        for (int i = 0; i < n; i++) ans[i] = -1;
+
+        s.push(nums[n - 1]);
+
+        // Main backward loop
+        for (int i = n - 2; i >= 0; i--) {
+            while (!s.isEmpty() && s.peek() <= nums[i]) {
+                s.pop();
             }
-            st.push(new int[]{num,idx+1});
-            idx++;
-        }
-        while(!st.isEmpty()){
-            int flag=0;
-            int[] arr=st.pop();
-            int a=arr[0];
-            int b=arr[1];
-            if(a!=max){
-                for(int i=0;i<n;i++){
-                    if(nums[i]>a){
-                        ans[b]=nums[i];
-                        flag=1;
-                        break;
-                    }
-                }
+
+            if (!s.isEmpty()) {
+                ans[i] = s.peek();
             }
-            if(flag==0){
-                ans[b]=-1;
-            }   
+
+            s.push(nums[i]);
         }
+
+        // ------- FIX FOR CIRCULAR PART -------
+        // Now treat it as circular:
+        for (int i = n - 1; i >= 0; i--) {
+            while (!s.isEmpty() && s.peek() <= nums[i]) {
+                s.pop();
+            }
+
+            if (!s.isEmpty() && ans[i] == -1) {
+                ans[i] = s.peek();
+            }
+
+            s.push(nums[i]);
+        }
+        // -------------------------------------
+
         return ans;
     }
 }
