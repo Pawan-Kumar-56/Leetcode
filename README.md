@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2293-min-max-game](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2293-min-max-game) |
 ## Hash Table
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Backtracking
 |  |
 | ------- |
@@ -170,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
