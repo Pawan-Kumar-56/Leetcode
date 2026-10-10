@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0217-contains-duplicate) |
+| [0295-find-median-from-data-stream](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0846-hand-of-straights) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0125-valid-palindrome) |
+| [0295-find-median-from-data-stream](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## String
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0295-find-median-from-data-stream](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Linked List
 |  |
