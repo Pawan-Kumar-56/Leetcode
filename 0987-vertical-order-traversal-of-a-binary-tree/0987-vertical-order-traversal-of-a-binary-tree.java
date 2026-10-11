@@ -18,18 +18,23 @@ class Solution {
         });
 
         int prevCol = Integer.MIN_VALUE;
+        List<Integer> temp = new ArrayList<>();
 
         for (int[] arr : nodes) {
-            int row = arr[0];
             int col = arr[1];
             int val = arr[2];
 
-            if (col != prevCol) {
-                list.add(new ArrayList<>());
-                prevCol = col;
+            if (col != prevCol && !temp.isEmpty()) {
+                list.add(temp);
+                temp = new ArrayList<>();
             }
 
-            list.get(list.size() - 1).add(val);
+            temp.add(val);
+            prevCol = col;
+        }
+
+        if (!temp.isEmpty()) {
+            list.add(temp);
         }
 
         return list;
