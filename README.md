@@ -166,12 +166,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Depth-First Search
 |  |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
