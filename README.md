@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0846-hand-of-straights) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Trie
 |  |
@@ -331,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Math
+|  |
+| ------- |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 <!---LeetCode Topics End-->
