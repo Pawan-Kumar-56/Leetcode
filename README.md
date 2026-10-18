@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [1094-car-pooling](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0846-hand-of-straights) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1094-car-pooling](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0735-asteroid-collision) |
+| [1094-car-pooling](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1094-car-pooling) |
 | [2293-min-max-game](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2293-min-max-game) |
 ## Sliding Window
 |  |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1094-car-pooling](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1094-car-pooling) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Tree
 |  |
@@ -256,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1094-car-pooling](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1094-car-pooling) |
 ## Binary Tree
 |  |
 | ------- |
