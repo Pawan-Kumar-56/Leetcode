@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3355-zero-array-transformation-i](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## DP on Trees
 |  |
 | ------- |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3886-sum-of-sortable-integers](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
 |  |
 | ------- |
