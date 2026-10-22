@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0045-jump-game-ii) |
+| [0070-climbing-stairs](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0070-climbing-stairs) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
@@ -379,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
