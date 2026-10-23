@@ -1,6 +1,3 @@
-
-import java.util.Arrays;
-
 class Solution {
     public int climbStairs(int n) {
         int[] dp = new int[n + 1];
@@ -14,9 +11,7 @@ class Solution {
 
         if (dp[idx] != -1) return dp[idx];
 
-        dp[idx] = f(idx + 1, n, dp)
+         return dp[idx] = f(idx + 1, n, dp)
                 + f(idx + 2, n, dp);
-
-        return dp[idx];
     }
 }
