@@ -7,16 +7,6 @@ class Solution {
         if (n == 1) return true;
         if (stones[1] != 1) return false;
 
-        int k = 0;
-        int check = 2 * n;
-        int a = (int) Math.pow(check, 0.5);
-
-        for (int i = a; i >= 0; i--) {
-            if (i * (i + 1) < check) {
-                k = i;
-                break;
-            }
-        }
 
         int[][] dp = new int[n][n + 1];
 
