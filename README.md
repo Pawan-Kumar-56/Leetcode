@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0070-climbing-stairs) |
 | [2409-count-days-spent-together](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -393,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0070-climbing-stairs) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
