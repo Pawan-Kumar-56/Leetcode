@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2409-count-days-spent-together](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2409-count-days-spent-together) |
 ## Stack
 |  |
 | ------- |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0070-climbing-stairs) |
+| [2409-count-days-spent-together](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Binary Indexed Tree
