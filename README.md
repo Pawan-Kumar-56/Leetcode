@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1094-car-pooling](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0403-frog-jump) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0931-minimum-falling-path-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0931-minimum-falling-path-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 ## Algorithm X
 |  |
 | ------- |
