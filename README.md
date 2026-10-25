@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0621-task-scheduler](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0403-frog-jump) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 ## Two Pointers
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0402-remove-k-digits](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0402-remove-k-digits) |
 | [0621-task-scheduler](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0621-task-scheduler) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0846-hand-of-straights](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0846-hand-of-straights) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
