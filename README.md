@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3355-zero-array-transformation-i](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3355-zero-array-transformation-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0931-minimum-falling-path-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Algorithm X
 |  |
 | ------- |
