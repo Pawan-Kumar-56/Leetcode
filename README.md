@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0485-max-consecutive-ones](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0070-climbing-stairs) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2409-count-days-spent-together](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3886-sum-of-sortable-integers) |
