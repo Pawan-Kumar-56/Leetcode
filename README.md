@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0217-contains-duplicate) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0198-house-robber) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
+| [0322-coin-change](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0494-target-sum) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0199-binary-tree-right-side-view) |
+| [0322-coin-change](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
@@ -439,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0494-target-sum) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
