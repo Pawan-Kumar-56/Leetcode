@@ -1,45 +1,28 @@
 class Solution {
-
     public int coinChange(int[] coins, int amount) {
-
-        int n = coins.length;
-
-        int[][] dp = new int[n][amount + 1];
-
-        for (int[] arr : dp) {
-            Arrays.fill(arr, -1);
+        int n=coins.length;
+        int[][] dp=new int[n][amount+1];
+        for(int[]arr:dp){
+            Arrays.fill(arr,-1);
         }
-
-        int ans = f(0, 0, amount, coins, dp);
-
-        return ans == Integer.MAX_VALUE ? -1 : ans;
+        int ans=f(n-1,amount,coins,dp);
+        return ans >= (int)1e9 ? -1 : ans;
     }
-
-    public int f(int idx, int sum, int amount,
-                 int[] arr, int[][] dp) {
-
-        if (sum == amount) return 0;
-
-        if (sum > amount || idx == arr.length) {
-            return Integer.MAX_VALUE;
+    public int f(int idx,int target,int[] arr,int[][] dp){
+        if(idx==0){
+            if(target%arr[0]==0){
+                return target/arr[0];
+            }
+            else return (int)1e9;
         }
-
-        if (dp[idx][sum] != -1) {
-            return dp[idx][sum];
+        if(dp[idx][target]!=-1){
+            return dp[idx][target];
         }
-
-        // Take current coin (unlimited supply)
-        int take = Integer.MAX_VALUE;
-
-        int next = f(idx, sum + arr[idx], amount, arr, dp);
-
-        if (next != Integer.MAX_VALUE) {
-            take = 1 + next;
+        int nottake=f(idx-1,target,arr,dp);
+        int take=(int)1e9;
+        if(arr[idx]<=target){
+            take=1+f(idx,target-arr[idx],arr,dp);
         }
-
-        // Don't take current coin
-        int nottake = f(idx + 1, sum, amount, arr, dp);
-
-        return dp[idx][sum] = Math.min(take, nottake);
+        return dp[idx][target]=Math.min(nottake,take);
     }
 }
