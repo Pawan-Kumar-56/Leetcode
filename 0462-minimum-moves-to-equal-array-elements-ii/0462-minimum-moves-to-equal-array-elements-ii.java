@@ -20,10 +20,10 @@ class Solution {
                 ans1+=Math.abs(a-b);
             }
 
-            int c=nums[n/2-1];
-            for(int d:nums){
-                ans2+=Math.abs(c-d);
-            }
+            // int c=nums[n/2-1];
+            // for(int d:nums){
+            //     ans2+=Math.abs(c-d);
+            // }
             ans=Math.max(ans1,ans2);
         }
 
