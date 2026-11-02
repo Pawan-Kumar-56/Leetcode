@@ -9,7 +9,7 @@ class Solution {
         int n=nums.length;
         int[][] dp=new int[n+1][n+2];
         for(int i=n-1;i>=0;i--){
-            for(int j=n;j>=0;j--){
+            for(int j=i;j>=0;j--){
                 int take=0;
                 if(j==0 || nums[j-1]<nums[i]){
                     take=1+dp[i+1][i+1];
