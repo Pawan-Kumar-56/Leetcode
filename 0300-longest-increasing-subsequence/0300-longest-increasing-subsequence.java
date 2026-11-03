@@ -1,24 +1,49 @@
 class Solution {
     public int lengthOfLIS(int[] nums) {
+
+       int n=nums.length;
+       int[] dp=new int[n]; 
+        Arrays.fill(dp,1);
+        for(int i=1;i<n;i++){
+            for(int j=0;j<i;j++){
+                if(nums[j]<nums[i]){
+                    dp[i]=Math.max(dp[i],dp[j]+1);
+                }
+            }
+        }
+        int ans=0;
+        for(int i=0;i<n;i++){
+            ans=Math.max(ans,dp[i]);
+        }
+        return ans;
+
+
+
+
+
+
+
+
+
         // int n=nums.length;
         // int[][] dp=new int[n][n+1];
         // for(int[] arr:dp){
         //     Arrays.fill(arr,-1);
         // }
         // return f(0,nums,-1,dp);
-        int n=nums.length;
-        int[][] dp=new int[n+1][n+2];
-        for(int i=n-1;i>=0;i--){
-            for(int j=i;j>=0;j--){
-                int take=0;
-                if(j==0 || nums[j-1]<nums[i]){
-                    take=1+dp[i+1][i+1];
-                }
-                int nottake=dp[i+1][j];
-                dp[i][j]=Math.max(nottake,take);
-            }
-        }
-        return dp[0][0];
+        // int n=nums.length;
+        // int[][] dp=new int[n+1][n+2];
+        // for(int i=n-1;i>=0;i--){
+        //     for(int j=i;j>=0;j--){
+        //         int take=0;
+        //         if(j==0 || nums[j-1]<nums[i]){
+        //             take=1+dp[i+1][i+1];
+        //         }
+        //         int nottake=dp[i+1][j];
+        //         dp[i][j]=Math.max(nottake,take);
+        //     }
+        // }
+        // return dp[0][0];
 
     }
     // public int f(int idx,int[] nums,int prev,int[][] dp){
