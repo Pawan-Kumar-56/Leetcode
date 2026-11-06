@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2293-min-max-game](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2293-min-max-game) |
+| [2747-count-zero-request-servers](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2747-count-zero-request-servers](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Sorting
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2747-count-zero-request-servers](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Backtracking
 |  |
 | ------- |
