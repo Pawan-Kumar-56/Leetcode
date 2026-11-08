@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2409-count-days-spent-together](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/2409-count-days-spent-together) |
 ## Stack
