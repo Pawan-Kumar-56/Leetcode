@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1094-car-pooling](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1094-car-pooling) |
 | [1331-rank-transform-of-an-array](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0994-rotting-oranges](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0994-rotting-oranges) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Algorithm X
 |  |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Pawan-Kumar-56/Leetcode/tree/master/0994-rotting-oranges) |
 ## Enumeration
 |  |
 | ------- |
